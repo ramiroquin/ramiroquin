@@ -1,10 +1,11 @@
 <h1 align="center">Hola 👋, Soy <a>Ramiro</a></h1>
 
-## Sobre Mí
+<h2>Sobre Mí</h2>
   
-- 👨‍💻 Estoy estudiando la carrera de Ingeniería en Software.
-- 📚 Actualmente estoy dedicando mi tiempo a tecnologias .NET.
-- 💪🏼 Metas futuras: Aprender mas - Llevar correctamente mis estudios.
+- 👨‍💻 Estoy estudiando la carrera de Ingeniería en Software.<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
+- 📚 Actualmente estoy dedicando mi tiempo a tecnologias .NET. Me gusta todo lo relacionado crear e innovar, estudio de forma autodidacta para potenciar mis estudios.
+- 💪🏼 Metas futuras: <br>-Recibirme.<br>-Poder vivir de lo que me gusta.<br>-No perder la motivacion.
 
 ## Tecnologias
 
