@@ -25,3 +25,14 @@
   <img src="https://img.shields.io/badge/sql server%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GIT%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
 </div>
+
+<h2 align="center">Contactame</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ramiro-quinteros/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+ <a href="mailto:ramiroquinteros360@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+ </div>
+
