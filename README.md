@@ -14,12 +14,10 @@
   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
 </div>
 <div>
   <img src="https://img.shields.io/badge/.net%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/.netcore%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Entity Framework%20-%23F7DF1E.svg?&style=for-the-badge&color=1C1B7E" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Asp Net%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
 </div>
 <div>
   <img src="https://img.shields.io/badge/sql server%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
