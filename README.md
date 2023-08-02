@@ -1,36 +1,12 @@
-<h1 align="center">Hi 👋, I am <a>Ramiro</a></h1>
+# 💫 About Me:
+¡Hola! Soy Ramiro Quinteros.<br><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><br>💻 Estudio la carrera de ingeniería en software.<br>📚 He aprendido tecnologias como  .NET, SQL y JavaScript de forma autodidacta a bases de cursos y videos.<br>🌐Tengo experiencia en inglés, ya que estudié durante 6 años.<br><br>Mi búsqueda constante de conocimiento me impulsa a crecer en el mundo de la programación y la informática. Siempre dispuesto a enfrentar nuevos desafíos y mejorar mis habilidades en el desarrollo de software.<br>Busco siempre contribuir al desarrollo de soluciones innovadoras. Amante de la tecnología y la colaboración en equipo, me esfuerzo por aplicar mis conocimientos en proyectos que tengan un impacto positivo en la sociedad. ¡Siempre dispuesto a seguir aprendiendo y evolucionando! Con mi formación en inglés y mi pasión por la programación, aspiro a abordar desafíos globales y contribuir al progreso tecnológico.<br><br>
 
-<h2>About me</h2>
-  
-- 👨‍💻 I am studying Software Engineering career.<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  
-- 📚 I am currently dedicating my time to .NET technologies. I like everything related to creating and innovating, I study self-taught to enhance my studies. I studied English for 6 years.
-- 💪🏼 Future goals: <br>-graduate from university.<br>-Being able to live from what I like.<br>-Don't lose motivation.
 
-## technologies
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramiroquin&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramiroquin&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroquin&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-  <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-</div>
-<div>
-  <img src="https://img.shields.io/badge/.net%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Asp Net%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
-</div>
-<div>
-  <img src="https://img.shields.io/badge/sql server%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GIT%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
-</div>
-
-<h2>Contact me</h2>
-<div>
-  <a href="https://www.linkedin.com/in/ramiro-quinteros/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
- <a href="mailto:ramiroquinteros360@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
- </div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
