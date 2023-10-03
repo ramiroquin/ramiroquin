@@ -25,7 +25,7 @@ class Ramiro
 <br>My constant search for knowledge drives me to grow in the world of programming and computing. Always willing to face new challenges and improve my skills in software development.<br>I always seek to contribute to the development of innovative solutions. Lover of technology and team collaboration, I strive to apply my knowledge in projects that have a positive impact on society. Always willing to continue learning and evolving! With my background in English and my passion for programming, I aspire to tackle global challenges and contribute to technological progress.<br><br>
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+# 👨‍💻 Skills 
 
 ### Back End : 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -37,7 +37,7 @@ class Ramiro
 ### Others :
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b>
+# 📈 Stats 
 ![](https://github-readme-stats.vercel.app/api?username=ramiroquin&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramiroquin&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroquin&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
