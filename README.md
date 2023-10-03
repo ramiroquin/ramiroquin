@@ -18,7 +18,6 @@ class Ramiro
                              - 🍕 Pizza
                              - 🚶‍♂️ Walk " +
                "🌍 Where i live : Argentina, Córdoba" +
-               "👨‍💻 Learning: ReactJs";
     }
 }
 ```
